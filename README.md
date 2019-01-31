@@ -34,6 +34,9 @@
 - https://linuxconfig.org/how-to-parse-data-from-json-into-python
 - https://www.youtube.com/watch?v=g4wdm488mkE
 - https://stackoverflow.com/questions/2835559/parsing-values-from-a-json-file
+- https://jsoneditoronline.org
+- https://codebeautify.org/online-json-editor
+- https://www.json-generator.com
 
 
 Official Guide from Python
