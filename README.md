@@ -33,6 +33,8 @@
 - https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/
 - https://linuxconfig.org/how-to-parse-data-from-json-into-python
 - https://www.youtube.com/watch?v=g4wdm488mkE
+- https://stackoverflow.com/questions/2835559/parsing-values-from-a-json-file
+
 
 Official Guide from Python
  - https://docs.python.org/3.3/library/json.html
